@@ -12,6 +12,9 @@ sudo apt install python3-pip
 ```
 git clone https://github.com/0xmoei/lava
 ```
+```
+cd lava
+```
 ## Change ETH RPC & (Wallet: optional)
 ```
 nano eth.py
