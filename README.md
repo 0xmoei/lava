@@ -4,9 +4,13 @@
 sudo apt-get update
 sudo apt-get install python3.10
 sudo apt install screen
+sudo apt install git
 ```
 ```
 sudo apt install python3-pip
+```
+```
+git clone https://github.com/0xmoei/lava
 ```
 ## Change ETH RPC & (Wallet: optional)
 ```
